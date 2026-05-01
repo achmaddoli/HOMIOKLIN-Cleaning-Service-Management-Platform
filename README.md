@@ -178,38 +178,39 @@ HOMIOKLIN helps cleaning service businesses manage their operations more clearly
 
 ---
 
-### 🔄 Service Workflow
+### 🔄 System Workflow
 
-<table border="0" cellpadding="5" cellspacing="0" width="100%">
-  <!-- Baris Pertama: Customer & Admin -->
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <!-- Baris Pertama -->
   <tr>
-    <td align="center" width="50%">
-      <img src="Customer Booking Interface.png" alt="Customer Booking" style="width:100%; border-radius:8px; aspect-ratio: 1 / 1; object-fit: cover;"/>
-      <br><strong>Customer Booking</strong>
+    <td align="center" valign="bottom" width="50%">
+      <img src="Customer Booking Interface.png" alt="Customer Booking" style="height:350px; width:auto; border-radius:8px; border: 1px solid #ddd;"/>
+      <br><br><strong>Customer Booking</strong>
     </td>
-    <td align="center" width="50%">
-      <img src="Admin Booking Confirmation Interface.png" alt="Admin Confirmation" style="width:100%; border-radius:8px; aspect-ratio: 1 / 1; object-fit: cover;"/>
-      <br><strong>Admin Confirmation</strong>
+    <td align="center" valign="bottom" width="50%">
+      <img src="Admin Booking Confirmation Interface.png" alt="Admin Confirmation" style="height:350px; width:auto; border-radius:8px; border: 1px solid #ddd;"/>
+      <br><br><strong>Admin Confirmation</strong>
     </td>
   </tr>
-  <!-- Baris Kedua: Worker & WhatsApp -->
+  <!-- Baris Kedua -->
   <tr>
-    <td align="center" width="50%">
-      <img src="Worker Task Management Interface.png" alt="Worker Task" style="width:100%; border-radius:8px; aspect-ratio: 1 / 1; object-fit: cover;"/>
-      <br><strong>Worker Management</strong>
+    <td align="center" valign="bottom" width="50%">
+      <img src="Worker Task Management Interface.png" alt="Worker Task" style="height:350px; width:auto; border-radius:8px; border: 1px solid #ddd;"/>
+      <br><br><strong>Worker Management</strong>
     </td>
-    <td align="center" width="50%">
-      <img src="Automated Whatsapp Notification.jpeg" alt="WA Notification" style="width:100%; border-radius:8px; aspect-ratio: 1 / 1; object-fit: cover;"/>
-      <br><strong>WhatsApp Notification</strong>
+    <td align="center" valign="bottom" width="50%">
+      <img src="Automated Whatsapp Notification.jpeg" alt="WA Notification" style="height:350px; width:auto; border-radius:8px; border: 1px solid #ddd;"/>
+      <br><br><strong>WhatsApp Notification</strong>
     </td>
   </tr>
 </table>
 
 <p align="center">
   <em>
-    Alur kerja sistem: Dimulai dari input pelanggan, konfirmasi admin, pelaksanaan oleh petugas lapangan, hingga notifikasi otomatis.
+    Starting from customer input and admin confirmation, through to field worker execution and automated notifications.
   </em>
 </p>
+
 ---
 
 ## 📈 Learning Journey
