@@ -215,7 +215,11 @@ HOMIOKLIN helps cleaning service businesses manage their operations more clearly
 
 ### 🎥 System Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/n_edv5o_4GA/0.jpg)](https://youtu.be/n_edv5o_4GA)
+<p align="center">
+  <a href="https://youtu.be/n_edv5o_4GA">
+    <img src="https://img.youtube.com/vi/n_edv5o_4GA/0.jpg" alt="Watch the Demo" width="600">
+  </a>
+</p>
 
 <p align="center">
   <em>Click the image above to watch the full demo on YouTube.</em>
