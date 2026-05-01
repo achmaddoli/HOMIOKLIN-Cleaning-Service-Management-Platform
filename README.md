@@ -180,22 +180,36 @@ HOMIOKLIN helps cleaning service businesses manage their operations more clearly
 
 ### 🔄 Service Workflow
 
-<p align="center">
-  <img src="Customer Booking Interface.png" alt="Customer Booking Interface" width="48%"/>
-  <img src="Admin Booking Confirmation Interface.png" alt="Admin Booking Confirmation Interface" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="Worker Task Management Interface.png" alt="Worker Task Management Interface" width="48%"/>
-  <img src="Automated Whatsapp Notification.jpeg" alt="Automated WhatsApp Notification" width="48%"/>
-</p>
+<table border="0" cellpadding="5" cellspacing="0" width="100%">
+  <!-- Baris Pertama: Customer & Admin -->
+  <tr>
+    <td align="center" width="50%">
+      <img src="Customer Booking Interface.png" alt="Customer Booking" style="width:100%; border-radius:8px; aspect-ratio: 1 / 1; object-fit: cover;"/>
+      <br><strong>Customer Booking</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Admin Booking Confirmation Interface.png" alt="Admin Confirmation" style="width:100%; border-radius:8px; aspect-ratio: 1 / 1; object-fit: cover;"/>
+      <br><strong>Admin Confirmation</strong>
+    </td>
+  </tr>
+  <!-- Baris Kedua: Worker & WhatsApp -->
+  <tr>
+    <td align="center" width="50%">
+      <img src="Worker Task Management Interface.png" alt="Worker Task" style="width:100%; border-radius:8px; aspect-ratio: 1 / 1; object-fit: cover;"/>
+      <br><strong>Worker Management</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Automated Whatsapp Notification.jpeg" alt="WA Notification" style="width:100%; border-radius:8px; aspect-ratio: 1 / 1; object-fit: cover;"/>
+      <br><strong>WhatsApp Notification</strong>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <em>
-    Top row: customer booking form and admin booking confirmation workflow. Bottom row: field worker task execution and automated WhatsApp notification after service completion.
+    Alur kerja sistem: Dimulai dari input pelanggan, konfirmasi admin, pelaksanaan oleh petugas lapangan, hingga notifikasi otomatis.
   </em>
 </p>
-
 ---
 
 ## 📈 Learning Journey
