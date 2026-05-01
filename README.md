@@ -154,7 +154,7 @@ HOMIOKLIN helps cleaning service businesses manage their operations more clearly
 
 ### 🏠 Business Overview
 <p align="center">
-  <img src="landing-page.png" alt="Homioklin Landing Page" width="85%"/>
+  <img src="Business Overview.png" alt="Homioklin Landing Page" width="85%"/>
 </p>
 
 <p align="center">
@@ -167,7 +167,7 @@ HOMIOKLIN helps cleaning service businesses manage their operations more clearly
 
 ### 📊 Admin Dashboard
 <p align="center">
-  <img src="admin-dashboard.png" alt="Homioklin Admin Dashboard" width="85%"/>
+  <img src="Admin Dashboard.png" alt="Homioklin Admin Dashboard" width="85%"/>
 </p>
 
 <p align="center">
@@ -181,13 +181,13 @@ HOMIOKLIN helps cleaning service businesses manage their operations more clearly
 ### 🔄 Service Workflow
 
 <p align="center">
-  <img src="customer-booking.png" alt="Customer Booking Interface" width="48%"/>
-  <img src="admin-booking-confirmation.png" alt="Admin Booking Confirmation Interface" width="48%"/>
+  <img src="Customer Booking Interface.png" alt="Customer Booking Interface" width="48%"/>
+  <img src="Admin Booking Confirmation Interface.png" alt="Admin Booking Confirmation Interface" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="worker-task-management.png" alt="Worker Task Management Interface" width="48%"/>
-  <img src="whatsapp-notification.png" alt="Automated WhatsApp Notification" width="48%"/>
+  <img src="Worker Task Management Interface.png" alt="Worker Task Management Interface" width="48%"/>
+  <img src="Automated Whatsapp Notification.jpeg" alt="Automated WhatsApp Notification" width="48%"/>
 </p>
 
 <p align="center">
