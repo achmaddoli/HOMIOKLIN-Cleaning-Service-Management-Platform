@@ -155,13 +155,26 @@ HOMIOKLIN helps cleaning service businesses manage their operations more clearly
 
 <p align="center">
   <em>
-    HOMIOKLIN landing page showcasing the business value proposition and available cleaning services for customers in Malang.
+    HOMIOKLIN landing page presenting the business value proposition and cleaning services offered for homes, apartments, and furniture in Malang.
   </em>
 </p>
 
 ---
 
-### 🔄 Workflow Highlights
+### 📊 Admin Dashboard
+<p align="center">
+  <img src="admin-dashboard.png" alt="Homioklin Admin Dashboard" width="85%"/>
+</p>
+
+<p align="center">
+  <em>
+    Admin dashboard for monitoring total revenue, annual booking statistics, and revenue trends to support service operations and business decision-making.
+  </em>
+</p>
+
+---
+
+### 🔄 Service Workflow
 
 <p align="center">
   <img src="customer-booking.png" alt="Customer Booking Interface" width="48%"/>
@@ -169,13 +182,13 @@ HOMIOKLIN helps cleaning service businesses manage their operations more clearly
 </p>
 
 <p align="center">
-  <img src="worker-task-management.png" alt="Field Worker Task Management" width="48%"/>
+  <img src="worker-task-management.png" alt="Worker Task Management Interface" width="48%"/>
   <img src="whatsapp-notification.png" alt="Automated WhatsApp Notification" width="48%"/>
 </p>
 
 <p align="center">
   <em>
-    Top row: customer booking interface and admin booking confirmation workflow. Bottom row: field worker task management and automated WhatsApp notification after task completion.
+    Top row: customer booking form and admin booking confirmation workflow. Bottom row: field worker task execution and automated WhatsApp notification after service completion.
   </em>
 </p>
 
