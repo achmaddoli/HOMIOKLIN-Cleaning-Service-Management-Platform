@@ -10,17 +10,17 @@
 
 ## 🧠 Why I Built This
 
-Cleaning service businesses often rely on manual communication, scattered booking records, and informal task coordination between customers, admins, and field workers. This creates operational issues such as unclear customer requests, delayed task confirmation, untracked job progress, and manual follow-up after a service is completed.
+HOMIOKLIN is a cleaning service business based in Malang that provides services such as home cleaning, sofa cleaning, bed cleaning, and deep cleaning. Like many service businesses, its operations can become fragmented when customer requests, admin confirmation, field worker coordination, work reporting, and customer follow-up are handled manually through separate communication channels.
 
 This led to a key question:
 
-> *How can a cleaning service business manage customer bookings, admin validation, field worker execution, and customer notification in one integrated workflow?*
+> *How can a local cleaning service business manage customer bookings, admin validation, field worker execution, and customer notification in one integrated workflow?*
 
 ---
 
 ## 🚀 What I Built
 
-I developed **HOMIOKLIN**, a web-based cleaning service management platform designed to connect three main users in one structured service workflow:
+I developed **HOMIOKLIN**, a web-based cleaning service management platform for a local cleaning service business in Malang, designed to connect three main users in one structured service workflow:
 
 - **Customers** can explore cleaning services, submit booking requests, upload reference photos, and track booking history.
 - **Admins** can review bookings, manage service data, monitor revenue, manage users, and confirm or reject customer requests.
@@ -34,6 +34,7 @@ HOMIOKLIN is not only a service landing page — it is an **end-to-end operation
 
 - **Type:** Web Application Project
 - **Field:** Service Management System / Business Operations
+- **Business Context:** Local cleaning service business in Malang, Indonesia
 - **Focus:** Booking workflow, role-based access, task tracking, and customer communication
 - **Users:** Customer, Admin, and Field Worker
 
@@ -203,4 +204,4 @@ Through this project, I learned how to design a web system around a real busines
 
 ## 🎯 Project Summary
 
-HOMIOKLIN is a web-based cleaning service management platform that connects customers, admins, and field workers in one integrated workflow, from service discovery and booking to task execution, reporting, and automated WhatsApp notification. This project strengthened my ability to design business-oriented web applications that solve operational problems through structured workflows, role-based access, and service process automation.
+HOMIOKLIN is a web-based cleaning service management platform built for a local cleaning service business in Malang, connecting customers, admins, and field workers in one integrated workflow, from service discovery and booking to task execution, reporting, and automated WhatsApp notification. This project strengthened my ability to design business-oriented web applications that solve operational problems through structured workflows, role-based access, and service process automation.
