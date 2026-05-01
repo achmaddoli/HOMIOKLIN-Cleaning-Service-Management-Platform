@@ -146,22 +146,38 @@ HOMIOKLIN helps cleaning service businesses manage their operations more clearly
 
 ---
 
-## 📺 Visuals
+## 📸 System Preview
 
-### Figure 1. Homioklin Landing Page
-Showcases the business value proposition and cleaning service offerings for customers.
+### 🏠 Business Overview
+<p align="center">
+  <img src="landing-page.png" alt="Homioklin Landing Page" width="85%"/>
+</p>
 
-### Figure 2. Customer Booking Interface
-Allows customers to schedule services, describe cleaning needs, add access notes, and upload reference photos.
+<p align="center">
+  <em>
+    HOMIOKLIN landing page showcasing the business value proposition and available cleaning services for customers in Malang.
+  </em>
+</p>
 
-### Figure 3. Admin Booking Confirmation Interface
-Allows admins to review incoming service requests and confirm or reject bookings before they are processed operationally.
+---
 
-### Figure 4. Field Worker Task Management
-Enables field workers to view assigned jobs, inspect service details, and update task progress.
+### 🔄 Workflow Highlights
 
-### Figure 5. Automated WhatsApp Notification
-Demonstrates how customers receive automatic service completion and payment notifications after the job is finalized.
+<p align="center">
+  <img src="customer-booking.png" alt="Customer Booking Interface" width="48%"/>
+  <img src="admin-booking-confirmation.png" alt="Admin Booking Confirmation Interface" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="worker-task-management.png" alt="Field Worker Task Management" width="48%"/>
+  <img src="whatsapp-notification.png" alt="Automated WhatsApp Notification" width="48%"/>
+</p>
+
+<p align="center">
+  <em>
+    Top row: customer booking interface and admin booking confirmation workflow. Bottom row: field worker task management and automated WhatsApp notification after task completion.
+  </em>
+</p>
 
 ---
 
