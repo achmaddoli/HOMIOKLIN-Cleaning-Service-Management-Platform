@@ -119,6 +119,8 @@ Manual follow-up can slow down the service process.
 - **💬 WhatsApp Notification Automation**  
   Automatically notifies customers when a service has been completed and provides payment information.
 
+- **💳 Manual Payment Recording**  
+  Allows admins to record customer payments after service completion, keeping revenue and payment history organized even without an online  payment gateway.
 ---
 
 ## 🌍 Real-World Value
