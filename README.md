@@ -87,7 +87,9 @@ Manual follow-up can slow down the service process.
 7. Field workers submit a work report based on real field conditions.
 8. Field workers mark the task as completed.
 9. The system automatically sends a WhatsApp notification to the customer.
-10. Admin can monitor revenue, booking status, users, workers, and payment history.
+11. Customer completes the payment manually based on the final service amount.
+12. Admin records the received payment into the system.
+13. Admin can monitor revenue, booking status, users, workers, and payment history.
 
 ---
 
