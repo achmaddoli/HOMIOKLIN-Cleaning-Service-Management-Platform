@@ -32,10 +32,11 @@ HOMIOKLIN is not only a service landing page — it is an **end-to-end operation
 
 ## 🎯 Project Context
 
-- **Type:** Web Application Project
+- **Type:** Individual Project
+- **Role:** Full-Stack Web Developer
 - **Field:** Service Management System / Business Operations
-- **Business Context:** Local cleaning service business in Malang, Indonesia
-- **Focus:** Booking workflow, role-based access, task tracking, and customer communication
+- **Business Context:** HOMIOKLIN, a cleaning service business in Malang, Indonesia
+- **Focus:** Booking workflow, role-based access, task tracking, payment recording, and customer communication
 - **Users:** Customer, Admin, and Field Worker
 
 ---
@@ -87,9 +88,9 @@ Manual follow-up can slow down the service process.
 7. Field workers submit a work report based on real field conditions.
 8. Field workers mark the task as completed.
 9. The system automatically sends a WhatsApp notification to the customer.
-11. Customer completes the payment manually based on the final service amount.
-12. Admin records the received payment into the system.
-13. Admin can monitor revenue, booking status, users, workers, and payment history.
+10. Customer completes the payment manually based on the final service amount.
+11. Admin records the received payment into the system.
+12. Admin can monitor revenue, booking status, users, workers, and payment history.
 
 ---
 
@@ -120,7 +121,8 @@ Manual follow-up can slow down the service process.
   Automatically notifies customers when a service has been completed and provides payment information.
 
 - **💳 Manual Payment Recording**  
-  Allows admins to record customer payments after service completion, keeping revenue and payment history organized even without an online  payment gateway.
+  Allows admins to record customer payments after service completion, keeping revenue and payment history organized even without an online payment gateway.
+  
 ---
 
 ## 🌍 Real-World Value
